@@ -1,3 +1,4 @@
 [submodule "luos_engine"]
 	path = luos_engine
 	url = git@github.com:mlecriva/luos_engine.git
+    ignore = dirty
